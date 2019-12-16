@@ -40,17 +40,17 @@ _Bender_ is a project of __IaaC__, Institute for Advanced Architecture of Catalo
   
 __Students:__
  <dl>
-<dp>Abdelrahman Koura</dp>
-<dp>Amit Pattar</dp>
-<dp>Jun Woo Lee</dp>
-<dp>Lorenzo Masini</dp>
-<dp>Luis Jayme</dp>
+ <dl>Abdelrahman Koura
+ <dl>Amit Pattar
+ <dl>Jun Woo Lee
+ <dl>Lorenzo Masini
+ <dl>Luis Jayme
   </dl>
-  </dl>
+
   
 __Faculty:__
-_Angel Muñoz
-Irene Rafols
-Soroush Garivani_
+ <dl>Angel Muñoz
+ <dl>Irene Rafols
+ <dl>Soroush Garivani_
 
 
