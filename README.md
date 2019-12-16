@@ -2,7 +2,11 @@
 End effector for ABB 140 for bending aluminium controlling degree
 
 
+
+![process of bending](https://github.com/losnooze/Bender/tree/master/doc/a.png)
+
 The process of bending metal has always been a hard and an accurate process to do by hand, therefore adding this craftsmanship to the robot expect precise learning, prototyping and calculations.
+![process of bending](https://github.com/losnooze/Bender/tree/master/doc/b.png)
 
 By looking on the typical tools used for the same reason at the present we were able to learn some techniques used for bending metal sheets.
 
