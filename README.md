@@ -37,7 +37,8 @@ Therefore, A change in the design and strategy took place from the previous expe
 _Bender_ is a project of __IaaC__, Institute for Advanced Architecture of Catalonia. developed at Master in Robotics and Advanced Construction in 2019-2020 by:
 
 <dl>
-  <dp>__Students:__</dp>
+  
+__Students:__
  <dl>
 <dp>Abdelrahman Koura</dp>
 <dp>Amit Pattar</dp>
@@ -45,7 +46,8 @@ _Bender_ is a project of __IaaC__, Institute for Advanced Architecture of Catalo
 <dp>Lorenzo Masini</dp>
 <dp>Luis Jayme</dp>
   </dl>
-
+  </dl>
+  
 __Faculty:__
 _Angel Muñoz
 Irene Rafols
